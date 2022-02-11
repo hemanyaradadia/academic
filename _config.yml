@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Hemanya Radadia
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -9,7 +9,7 @@ owner:
   name: Hemanya Radadia
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: radadiahemanya@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
@@ -42,7 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+highlight-color: '#033f63'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
